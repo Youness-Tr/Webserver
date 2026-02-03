@@ -351,8 +351,8 @@ Client Request → Reactor → HttpServer → Connection → RequestDispatcher
 ## 👥 Authors
 
 - **Youness Tarhouani** - [1337 Student](https://github.com/Youness-Tr)
-- **abdleali jabri** - [1337 Student](https://github.com/ajabri)
-- **baderdin aouragh** - [1337 Student](https://github.com/baouragh)
+- **abdleali jabri** - [1337 Student](https://github.com/ajabrii)
+- **baderdin aouragh** - [1337 Student](https://github.com/Badered10)
 
 ---
 
